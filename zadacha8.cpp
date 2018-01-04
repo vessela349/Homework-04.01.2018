@@ -18,7 +18,7 @@ int fibonacci(int number) {
 		}
 		cout << nextNum << endl;
 	}
-	return next;
+	return nextNum;
 }
 
 int main() {
